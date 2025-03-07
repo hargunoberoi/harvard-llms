@@ -1,5 +1,7 @@
 # Session notes
 
+Hello there!
+
 Following repository contains the code to train a small transformer based model demonstrated during the course [Applying LLMs in practice](https://sites.harvard.edu/harvard-seas-llm/directory/hargun-oberoi/?cp-dir-id=431) at Harvard SEAS.
 
 You can also find below the resources that I discussed during my presentations.
