@@ -28,3 +28,5 @@ The ChesterGPT architecture is based on the NanoGPT project by Andrej Karpathy. 
 MIT
 
 If any questions, please raise an issue here on this repository.
+
+Cheers!
